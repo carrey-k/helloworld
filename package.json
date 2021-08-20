@@ -1,11 +1,10 @@
 {
   "name": "@kangchengkun/helloworld",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a npm demo package to publish local registry",
   "main": "index.js",
   "scripts": {
-    "test": "test",
-    "publish": "npm publish"
+    "test": "test"
   },
   "repository": {
     "type": "git",
